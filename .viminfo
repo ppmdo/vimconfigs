@@ -1,0 +1,706 @@
+# Vim 8.0 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último Patrón de búsqueda:
+~MSle0~/AUTH
+
+# Último SustituciónPatrón de búsqueda:
+~MSle0&size
+
+# Última cadena de sustitución:
+$
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:wq
+|2,0,1527551003,,"wq"
+:q!
+|2,0,1527178814,,"q!"
+:q
+|2,0,1527178631,,"q"
+:Q
+|2,0,1527178390,,"Q"
+:Q!
+|2,0,1527002134,,"Q!"
+:w
+|2,0,1526944752,,"w"
+:/AUTH
+|2,0,1526944732,,"/AUTH"
+:Wq
+|2,0,1526942133,,"Wq"
+:wq!
+|2,0,1526639507,,"wq!"
+:/null
+|2,0,1526578205,,"/null"
+:/ERROR
+|2,0,1526578129,,"/ERROR"
+:/error
+|2,0,1526578169,,"/error"
+:/prefix
+|2,0,1526333204,,"/prefix"
+:/handle
+|2,0,1526333164,,"/handle"
+:/generar
+|2,0,1525366643,,"/generar"
+:/generar_links
+|2,0,1525366638,,"/generar_links"
+:/selenium_gen
+|2,0,1525366632,,"/selenium_gen"
+:W
+|2,0,1525308308,,"W"
+:wQ
+|2,0,1525307930,,"wQ"
+:e
+|2,0,1525303398,,"e"
+:/195
+|2,0,1525199448,,"/195"
+:1000000
+|2,0,1522278513,,"1000000"
+:100000
+|2,0,1522278509,,"100000"
+:100%
+|2,0,1522278502,,"100%"
+:/clave
+|2,0,1521826106,,"/clave"
+:/already
+|2,0,1519865023,,"/already"
+:78
+|2,0,1519864673,,"78"
+:67
+|2,0,1519864578,,"67"
+:/Failed
+|2,0,1519864266,,"/Failed"
+:/handleImage
+|2,0,1519864100,,"/handleImage"
+:/exclude
+|2,0,1519863867,,"/exclude"
+:/alig
+|2,0,1519862536,,"/alig"
+:/seria
+|2,0,1519862833,,"/seria"
+:/ser
+|2,0,1519862829,,"/ser"
+:/align
+|2,0,1519862523,,"/align"
+:set paste
+|2,0,1519410800,,"set paste"
+:'<,'>w >>basura.txt
+|2,0,1518805094,,"'<,'>w >>basura.txt"
+:'<w basura.txt
+|2,0,1518798197,,"'<w basura.txt"
+:'<,'>w basura.txt
+|2,0,1518798185,,"'<,'>w basura.txt"
+:'<,'>wa basura.txt
+|2,0,1518221403,,"'<,'>wa basura.txt"
+:set number!
+|2,0,1518135248,,"set number!"
+:/INE
+|2,0,1518117900,,"/INE"
+:w!
+|2,0,1517347928,,"w!"
+:/custom
+|2,0,1516300485,,"/custom"
+:480
+|2,0,1516128776,,"480"
+:472
+|2,0,1516128666,,"472"
+:460
+|2,0,1516128542,,"460"
+:'<,'>s/size/size()/g
+|2,0,1516128367,,"'<,'>s/size/size()/g"
+:459
+|2,0,1516128292,,"459"
+:/Array
+|2,0,1516128071,,"/Array"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+? AUTH
+|2,1,1526944732,,"AUTH"
+? @$
+|2,1,1526942851,,"@$"
+? null
+|2,1,1526578205,,"null"
+? ERROR
+|2,1,1526578129,,"ERROR"
+? error
+|2,1,1526578169,,"error"
+? prefix
+|2,1,1526333204,,"prefix"
+? handle
+|2,1,1526333164,,"handle"
+? generar
+|2,1,1525366643,,"generar"
+? generar_links
+|2,1,1525366638,,"generar_links"
+? selenium_gen
+|2,1,1525366632,,"selenium_gen"
+? 195
+|2,1,1525199448,,"195"
+? clave
+|2,1,1521826106,,"clave"
+? already
+|2,1,1519865023,,"already"
+? Failed
+|2,1,1519864266,,"Failed"
+? handleImage
+|2,1,1519864100,,"handleImage"
+? exclude
+|2,1,1519863867,,"exclude"
+? alig
+|2,1,1519862536,,"alig"
+? seria
+|2,1,1519862833,,"seria"
+? ser
+|2,1,1519862829,,"ser"
+? align
+|2,1,1519862523,,"align"
+? INE
+|2,1,1518117900,,"INE"
+? custom
+|2,1,1516300485,,"custom"
+? size
+|2,1,1516128367,,"size"
+? Array
+|2,1,1516128071,,"Array"
+? id
+|2,1,1516124798,,"id"
+? TreeNode
+|2,1,1516124522,,"TreeNode"
+? getDSO
+|2,1,1516124500,,"getDSO"
+? Scope
+|2,1,1516119180,,"Scope"
+? scope
+|2,1,1516119106,,"scope"
+? retab
+|2,1,1516037246,,"retab"
+? def clasificar
+|2,1,1514576082,,"def clasificar"
+? clasificar()
+|2,1,1514576062,,"clasificar()"
+? inlineformsetfactory_materia
+|2,1,1513706544,,"inlineformsetfactory_materia"
+? form_temas
+|2,1,1513707036,,"form_temas"
+? form_clasificacion
+|2,1,1513706961,,"form_clasificacion"
+? nivel
+|2,1,1513281243,,"nivel"
+? factory
+|2,1,1513099832,,"factory"
+? print
+|2,1,1512671522,,"print"
+? \<print\>
+|2,1,1512580294,,"\\<print\\>"
+? 'CASCADE'
+|2,1,1512519513,,"'CASCADE'"
+? "CASCADE"
+|2,1,1512519502,,"\"CASCADE\""
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Debug Line (de lo más nuevo a lo más antiguo):
+
+# Registros:
+"0	CHAR	0
+	E
+|3,0,0,0,1,0,1526942851,"E"
+""1	LINE	0
+	
+|3,1,1,1,1,0,1527551001,""
+"2	LINE	0
+	[ -s "/home/ine/.nvm/nvm.sh" ] && . "/home/ine/.nvm/nvm.sh" # This loads nvm
+|3,0,2,1,1,0,1527551001,"[ -s \"/home/ine/.nvm/nvm.sh\" ] && . \"/home/ine/.nvm/nvm.sh\" # This loads nvm"
+"3	LINE	0
+	
+|3,0,3,1,1,0,1527002076,""
+"4	LINE	0
+	AUTH_USER_MODEL = 'accounts.Account'
+|3,0,4,1,1,0,1527002070,"AUTH_USER_MODEL = 'accounts.Account'"
+"5	LINE	0
+	AUTH_USER_MODEL = 'accounts.Account'
+|3,0,5,1,1,0,1526945068,"AUTH_USER_MODEL = 'accounts.Account'"
+"6	LINE	0
+	    'authentication',
+|3,0,6,1,1,0,1526943889,"    'authentication',"
+"7	LINE	0
+	    btn_delete = drv.find_element_by_id('aspect_administrative_item_EditItemStatusForm_field_submit_delete')
+|3,0,7,1,1,0,1525321700,"    btn_delete = drv.find_element_by_id('aspect_administrative_item_EditItemStatusForm_field_submit_delete')"
+"8	LINE	0
+	    assert "Acuerdos" in drv.title
+|3,0,8,1,1,0,1525308463,"    assert \"Acuerdos\" in drv.title"
+"9	LINE	0
+	    if url is not None:
+	        url = url
+	    else:
+	        url = 'http://repositoriodocumental.ine.mx/xmlui/handle/123456789/44771'
+|3,0,9,1,4,0,1525308431,"    if url is not None:","        url = url","    else:","        url = 'http://repositoriodocumental.ine.mx/xmlui/handle/123456789/44771'"
+"-	CHAR	0
+	E
+|3,0,36,0,1,0,1525457361,"E"
+
+# Marcas en el archivo:
+'0  16  0  ~/.bashrc
+|4,48,16,0,1527551003,"~/.bashrc"
+'1  13  40  ~/.bashrc
+|4,49,13,40,1527284039,"~/.bashrc"
+'2  13  40  ~/.bashrc
+|4,50,13,40,1527284039,"~/.bashrc"
+'3  156  15  /usr/share/applications/pidgin.desktop
+|4,51,156,15,1527178814,"/usr/share/applications/pidgin.desktop"
+'4  156  4  /usr/share/applications/pidgin.desktop
+|4,52,156,4,1527178631,"/usr/share/applications/pidgin.desktop"
+'5  1  10  /usr/bin/pidgin-sipe
+|4,53,1,10,1527178583,"/usr/bin/pidgin-sipe"
+'6  1  0  /usr/bin/pidgin
+|4,54,1,0,1527178392,"/usr/bin/pidgin"
+'7  40  20  ~/git/twittclas/twittclas/settings.py
+|4,55,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+'8  117  0  ~/git/twittclas/twittclas/settings.py
+|4,56,117,0,1527019877,"~/git/twittclas/twittclas/settings.py"
+'9  116  0  ~/git/twittclas/twittclas/settings.py
+|4,57,116,0,1527019877,"~/git/twittclas/twittclas/settings.py"
+
+# Lista de saltos (el más reciente va primero):
+-'  16  0  ~/.bashrc
+|4,39,16,0,1527551003,"~/.bashrc"
+-'  13  0  ~/.bashrc
+|4,39,13,0,1527550997,"~/.bashrc"
+-'  13  40  ~/.bashrc
+|4,39,13,40,1527284039,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1527284016,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1527284016,"~/.bashrc"
+-'  156  15  /usr/share/applications/pidgin.desktop
+|4,39,156,15,1527178814,"/usr/share/applications/pidgin.desktop"
+-'  156  15  /usr/share/applications/pidgin.desktop
+|4,39,156,15,1527178814,"/usr/share/applications/pidgin.desktop"
+-'  156  15  /usr/share/applications/pidgin.desktop
+|4,39,156,15,1527178814,"/usr/share/applications/pidgin.desktop"
+-'  156  15  /usr/share/applications/pidgin.desktop
+|4,39,156,15,1527178814,"/usr/share/applications/pidgin.desktop"
+-'  156  4  /usr/share/applications/pidgin.desktop
+|4,39,156,4,1527178631,"/usr/share/applications/pidgin.desktop"
+-'  156  4  /usr/share/applications/pidgin.desktop
+|4,39,156,4,1527178631,"/usr/share/applications/pidgin.desktop"
+-'  156  4  /usr/share/applications/pidgin.desktop
+|4,39,156,4,1527178631,"/usr/share/applications/pidgin.desktop"
+-'  156  4  /usr/share/applications/pidgin.desktop
+|4,39,156,4,1527178631,"/usr/share/applications/pidgin.desktop"
+-'  1  10  /usr/bin/pidgin-sipe
+|4,39,1,10,1527178583,"/usr/bin/pidgin-sipe"
+-'  1  10  /usr/bin/pidgin-sipe
+|4,39,1,10,1527178583,"/usr/bin/pidgin-sipe"
+-'  1  10  /usr/bin/pidgin-sipe
+|4,39,1,10,1527178583,"/usr/bin/pidgin-sipe"
+-'  1  10  /usr/bin/pidgin-sipe
+|4,39,1,10,1527178583,"/usr/bin/pidgin-sipe"
+-'  1  10  /usr/bin/pidgin-sipe
+|4,39,1,10,1527178583,"/usr/bin/pidgin-sipe"
+-'  1  10  /usr/bin/pidgin-sipe
+|4,39,1,10,1527178583,"/usr/bin/pidgin-sipe"
+-'  1  10  /usr/bin/pidgin-sipe
+|4,39,1,10,1527178583,"/usr/bin/pidgin-sipe"
+-'  1  10  /usr/bin/pidgin-sipe
+|4,39,1,10,1527178583,"/usr/bin/pidgin-sipe"
+-'  1  10  /usr/bin/pidgin-sipe
+|4,39,1,10,1527178583,"/usr/bin/pidgin-sipe"
+-'  1  10  /usr/bin/pidgin-sipe
+|4,39,1,10,1527178583,"/usr/bin/pidgin-sipe"
+-'  1  10  /usr/bin/pidgin-sipe
+|4,39,1,10,1527178583,"/usr/bin/pidgin-sipe"
+-'  1  10  /usr/bin/pidgin-sipe
+|4,39,1,10,1527178583,"/usr/bin/pidgin-sipe"
+-'  1  10  /usr/bin/pidgin-sipe
+|4,39,1,10,1527178583,"/usr/bin/pidgin-sipe"
+-'  1  10  /usr/bin/pidgin-sipe
+|4,39,1,10,1527178583,"/usr/bin/pidgin-sipe"
+-'  1  10  /usr/bin/pidgin-sipe
+|4,39,1,10,1527178583,"/usr/bin/pidgin-sipe"
+-'  1  10  /usr/bin/pidgin-sipe
+|4,39,1,10,1527178583,"/usr/bin/pidgin-sipe"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  1  0  /usr/bin/pidgin
+|4,39,1,0,1527178392,"/usr/bin/pidgin"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+-'  40  20  ~/git/twittclas/twittclas/settings.py
+|4,39,40,20,1527026232,"~/git/twittclas/twittclas/settings.py"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/.bashrc
+	*	1527551002	0
+	"	16	0
+	^	13	41
+	.	17	0
+	+	13	40
+	+	17	0
+
+> /usr/share/applications/pidgin.desktop
+	*	1527178812	0
+	"	156	15
+	^	156	16
+	.	156	15
+	+	156	15
+
+> /usr/bin/pidgin-sipe
+	*	1527178578	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	0
+	+	1	10
+
+> /usr/bin/pidgin
+	*	1527178390	0
+	"	1	0
+
+> ~/git/twittclas/twittclas/settings.py
+	*	1527026232	0
+	"	40	20
+	^	40	21
+	.	40	20
+	+	124	0
+	+	34	0
+	+	40	0
+	+	124	0
+	+	40	5
+	+	124	0
+	+	40	12
+	+	124	0
+	+	85	0
+	+	124	0
+	+	122	0
+	+	124	32
+	+	40	20
+
+> ~/git/twittclas/authentication/__init__.py
+	*	1527019680	0
+	"	1	0
+
+> }twittclas/settings.py
+	*	1527002134	0
+	"	1	0
+
+> ~/git/twittclas/accounts/admin.py
+	*	1527002101	0
+	"	1	0
+
+> ~/git/twittclas/accounts/models.py
+	*	1526945429	0
+	"	7	0
+	^	7	0
+
+> ~/git/twittclas/authentication/admin.py
+	*	1526944436	0
+	"	1	0
+
+> ~/git/twittclas/authentication/models.py
+	*	1526943962	0
+	"	60	0
+	^	1	28
+	.	2	0
+	+	2	0
+
+> ~/git/twittclas/authentication/migrations/0001_initial.py
+	*	1526942861	0
+	"	1	0
+
+> /usr/share/applications/firefox-devel.desktop
+	*	1526639511	0
+	"	168	37
+	^	168	38
+	.	168	37
+	+	3	29
+	+	110	11
+	+	108	24
+	+	220	41
+	+	168	37
+
+> ~/dspace/logs_actualizacion/DSPACE/dspace.log.2018-05-01
+	*	1526578337	0
+	"	20007	93
+
+> ~/dspace/logs_actualizacion/DSPACE/catalina.2018-05-01.log
+	*	1526578172	0
+	"	2	1
+
+> /opt/dspace/config/dspace.cfg
+	*	1526333221	0
+	"	239	20
+	^	239	21
+	.	239	20
+	+	239	20
+
+> /opt/dspace/config/local.cfg
+	*	1526333170	0
+	"	161	20
+	^	161	21
+	.	161	20
+	+	161	20
+
+> ~/netbeans-8.2/etc/netbeans.conf
+	*	1525889954	0
+	"	46	286
+	^	46	287
+	.	46	287
+	+	46	287
+
+> /mnt/windows/Users/pablo.prieto/Documents/PycharmProjects/cipe-transp/blahtuhmah
+	*	1525390890	0
+	"	617	0
+	.	616	11
+	+	616	11
+
+> /mnt/windows/Users/pablo.prieto/Documents/PycharmProjects/cipe-transp/autotest/tests.py
+	*	1525364644	0
+	"	116	13
+	^	116	14
+	.	116	13
+	+	24	18
+	+	34	13
+	+	8	28
+	+	18	29
+	+	2	23
+	+	5	0
+	+	6	24
+	+	23	14
+	+	13	14
+	+	6	0
+	+	18	4
+	+	25	15
+	+	29	29
+	+	33	19
+	+	36	12
+	+	40	51
+	+	24	0
+	+	42	25
+	+	44	81
+	+	45	30
+	+	46	81
+	+	49	18
+	+	40	78
+	+	51	0
+	+	52	14
+	+	57	0
+	+	58	19
+	+	60	79
+	+	62	41
+	+	63	85
+	+	64	2
+	+	102	4
+	+	70	26
+	+	80	32
+	+	82	92
+	+	82	0
+	+	83	0
+	+	102	7
+	+	83	0
+	+	102	4
+	+	85	29
+	+	86	82
+	+	86	3
+	+	88	26
+	+	86	84
+	+	84	14
+	+	102	4
+	+	92	87
+	+	93	19
+	+	65	8
+	+	70	0
+	+	66	3
+	+	70	14
+	+	68	0
+	+	70	0
+	+	68	97
+	+	69	0
+	+	2	61
+	+	68	99
+	+	72	7
+	+	74	3
+	+	76	104
+	+	74	12
+	+	76	12
+	+	76	9
+	+	69	23
+	+	76	99
+	+	77	16
+	+	3	10
+	+	76	0
+	+	73	0
+	+	74	0
+	+	75	0
+	+	77	0
+	+	94	28
+	+	95	70
+	+	96	15
+	+	97	42
+	+	99	13
+	+	100	42
+	+	101	30
+	+	102	4
+	+	100	22
+	+	104	0
+	+	105	24
+	+	106	0
+	+	105	28
+	+	107	18
+	+	108	0
+	+	109	72
+	+	113	0
+	+	109	73
+	+	113	0
+	+	100	77
+	+	105	9
+	+	109	75
+	+	113	107
+	+	113	102
+	+	113	3
+	+	116	13
